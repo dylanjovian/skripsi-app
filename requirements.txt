@@ -1,1 +1,10 @@
 streamlit
+torch
+torchvision
+transformers
+gdown
+numpy
+pandas
+scikit-learn
+sentencepiece
+safetensors
